@@ -7,4 +7,4 @@ Akka Http with custom stream flow processing
 
   This example showcases Akka Http with Akka Custom Stream Flow. 
   Every element of the stream flow is 
-  executed by a seperate actor. Enjoy :-)
+  executed by a separate actor. Enjoy :-)
